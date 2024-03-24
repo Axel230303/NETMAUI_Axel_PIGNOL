@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AxelPIGNOL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+2ab4db2f26a9774d309fc5946dfa6fb66ed8c142")]
 [assembly: System.Reflection.AssemblyProductAttribute("AxelPIGNOL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AxelPIGNOL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

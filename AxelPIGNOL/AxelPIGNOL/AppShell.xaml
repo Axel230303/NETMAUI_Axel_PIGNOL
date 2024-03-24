@@ -6,7 +6,6 @@
        Shell.FlyoutBehavior="Disabled"
        Title="AxelPIGNOL">
 
-    <!-- Définition du TabBar pour le menu inférieur -->
     <TabBar>
         <!-- Onglet 1: Home -->
         <Tab Title="Home" Icon="home_icon.png">

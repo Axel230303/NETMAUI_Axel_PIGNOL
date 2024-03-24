@@ -1,25 +1,27 @@
-﻿namespace AxelPIGNOL
+﻿using AxelPIGNOL.Models;
+using AxelPIGNOL.ViewModels;
+
+namespace AxelPIGNOL
 {
     public partial class SearchPage : ContentPage
     {
-        int count = 0;
-
         public SearchPage()
         {
             InitializeComponent();
+            this.BindingContext = new BeerViewModel();
         }
 
-        private void OnCounterClicked(object sender, EventArgs e)
+        private async void OnSelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            count++;
+            var selectedBeer = e.CurrentSelection.FirstOrDefault() as Beer;
+            if (selectedBeer != null)
+            {
+                await Navigation.PushAsync(new BeerDetailPage(selectedBeer));
+            }
 
-            if (count == 1)
-                CounterBtn.Text = $"Clicked {count} time";
-            else
-                CounterBtn.Text = $"Clicked {count} times";
+            // Désélectionner l'élément
+            ((CollectionView)sender).SelectedItem = null;
 
-            SemanticScreenReader.Announce(CounterBtn.Text);
         }
     }
-
 }

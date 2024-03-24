@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AxelPIGNOL.BeerDetailPage"
+             Title="{Binding Name}">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="10">
+            <Image Source="{Binding Image}" Aspect="AspectFit" HeightRequest="300"/>
+            <Label Text="{Binding Name}" 
+                   FontSize="Large" 
+                   FontAttributes="Bold"/>
+            <Label Text="{Binding Price}"
+                   FontSize="Medium"/>
+            <Label Text="{Binding Rating.Average, StringFormat='Rating: {0:F1} ({1} Reviews)'}"
+                   FontSize="Small"
+                   BindableLayout.ItemsSource="{Binding Rating}"
+                   Margin="0,10,0,0"/>
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

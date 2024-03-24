@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AxelPIGNOL.GifPage"
+             Title="GIF Animé">
+
+	<VerticalStackLayout Spacing="25" Padding="30">
+		<!-- Ajuster les propriétés HeightRequest et WidthRequest pour contrôler la taille d'affichage -->
+		<Image Source="spider_man.gif" Aspect="AspectFit" HeightRequest="300" WidthRequest="300" />
+
+		<!-- Bouton pour retourner à la page d'accueil (facultatif si vous utilisez la navigation) -->
+		<Button Text="Retour à l'accueil" Clicked="ReturnToHomeClicked"/>
+	</VerticalStackLayout>
+
+</ContentPage>
