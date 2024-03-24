@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Shell x:Class="AxelPIGNOL.AppShell"
+       xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+       xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+       xmlns:local="clr-namespace:AxelPIGNOL"
+       Shell.FlyoutBehavior="Disabled"
+       Title="AxelPIGNOL">
+
+    <!-- Définition du TabBar pour le menu inférieur -->
+    <TabBar>
+        <!-- Onglet 1: Home -->
+        <Tab Title="Home" Icon="home_icon.png">
+            <ShellContent Route="HomePage" ContentTemplate="{DataTemplate local:MainPage}" />
+        </Tab>
+
+        <!-- Onglet 2: Search -->
+        <Tab Title="Search" Icon="search_icon.png">
+            <ShellContent Route="SearchPage" ContentTemplate="{DataTemplate local:SearchPage}" />
+        </Tab>
+
+        <!-- Onglet 3: Favorites -->
+        <Tab Title="Favorites" Icon="favorites_icon.png">
+            <ShellContent Route="FavoritesPage" ContentTemplate="{DataTemplate local:FavoritesPage}" />
+        </Tab>
+
+        <!-- Onglet 4: Settings -->
+        <Tab Title="Settings" Icon="settings_icon.png">
+            <ShellContent Route="SettingsPage" ContentTemplate="{DataTemplate local:SettingsPage}" />
+        </Tab>
+    </TabBar>
+</Shell>
