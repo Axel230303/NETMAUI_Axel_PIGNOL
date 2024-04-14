@@ -8,8 +8,6 @@
 
             <Label Text="Bienvenue sur l'application .NET MAUI" FontSize="24" FontAttributes="Bold" HorizontalTextAlignment="Center" />
             <Label Text="Pour mon projet de R4.11" FontSize="18" HorizontalTextAlignment="Center" />
-
-            <!-- Disposition des images côte à côte, centrée -->
             <HorizontalStackLayout HorizontalOptions="Center" VerticalOptions="Center">
                 <Image Source="image1.jpg" HeightRequest="100" WidthRequest="100" Aspect="AspectFit" HorizontalOptions="Center" />
                 <Image Source="image2.png" HeightRequest="100" WidthRequest="100" Aspect="AspectFit" HorizontalOptions="Center" />
@@ -17,15 +15,6 @@
 
             <!-- Bouton pour naviguer vers une nouvelle page avec un gif -->
             <Button x:Name="GifPageBtn" Text="Voir le GIF" Clicked="OnGifPageClicked" HorizontalOptions="Fill" />
-
-            <!-- CarouselView comme composant additionnel -->
-            <CarouselView ItemsSource="{Binding YourItemsSource}" HorizontalOptions="Center" VerticalOptions="Center">
-                <CarouselView.ItemTemplate>
-                    <DataTemplate>
-                        <Image Source="{Binding .}" Aspect="AspectFit" HorizontalOptions="Center" />
-                    </DataTemplate>
-                </CarouselView.ItemTemplate>
-            </CarouselView>
         </VerticalStackLayout>
     </ScrollView>
 </ContentPage>

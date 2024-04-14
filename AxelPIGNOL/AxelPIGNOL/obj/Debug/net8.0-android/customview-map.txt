@@ -1,7 +1,5 @@
 @string/appbar_scrolling_view_behavior;C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\obj\Debug\net8.0-android\lp\156\jl\res\layout\fragment_backstack.xml
 @string/appbar_scrolling_view_behavior;C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\obj\Debug\net8.0-android\lp\156\jl\res\layout\navigationlayout.xml
-adaptive-icon;obj\Debug\net8.0-android\resizetizer\r\mipmap-anydpi-v26\appicon.xml
-adaptive-icon;obj\Debug\net8.0-android\resizetizer\r\mipmap-anydpi-v26\appicon_round.xml
 adaptive-icon;obj\Debug\net8.0-android\resizetizer\r\mipmap-anydpi-v26\iut_logo.xml
 adaptive-icon;obj\Debug\net8.0-android\resizetizer\r\mipmap-anydpi-v26\iut_logo_round.xml
 alpha;C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\obj\Debug\net8.0-android\lp\154\jl\res\anim\enterfromleft.xml
@@ -17,8 +15,6 @@ androidx.fragment.app.FragmentContainerView;C:\Users\paxou\NETMAUI_Axel_PIGNOL\A
 androidx.fragment.app.FragmentContainerView;C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\obj\Debug\net8.0-android\lp\156\jl\res\layout\navigationlayout.xml
 attr;C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\obj\Debug\net8.0-android\lp\153\jl\res\values\attrs.xml
 attr;C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\obj\Debug\net8.0-android\lp\156\jl\res\values\attr.xml
-background;obj\Debug\net8.0-android\resizetizer\r\mipmap-anydpi-v26\appicon.xml
-background;obj\Debug\net8.0-android\resizetizer\r\mipmap-anydpi-v26\appicon_round.xml
 background;obj\Debug\net8.0-android\resizetizer\r\mipmap-anydpi-v26\iut_logo.xml
 background;obj\Debug\net8.0-android\resizetizer\r\mipmap-anydpi-v26\iut_logo_round.xml
 bitmap;obj\Debug\net8.0-android\resizetizer\sp\drawable\maui_splash_image.xml
@@ -36,8 +32,6 @@ declare-styleable;C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\obj\D
 declare-styleable;C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\obj\Debug\net8.0-android\lp\156\jl\res\values\attr.xml
 external-cache-path;C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\obj\Debug\net8.0-android\lp\157\jl\res\xml\microsoft_maui_essentials_fileprovider_file_paths.xml
 external-path;C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\obj\Debug\net8.0-android\lp\157\jl\res\xml\microsoft_maui_essentials_fileprovider_file_paths.xml
-foreground;obj\Debug\net8.0-android\resizetizer\r\mipmap-anydpi-v26\appicon.xml
-foreground;obj\Debug\net8.0-android\resizetizer\r\mipmap-anydpi-v26\appicon_round.xml
 foreground;obj\Debug\net8.0-android\resizetizer\r\mipmap-anydpi-v26\iut_logo.xml
 foreground;obj\Debug\net8.0-android\resizetizer\r\mipmap-anydpi-v26\iut_logo_round.xml
 item;C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\obj\Debug\net8.0-android\lp\153\jl\res\values\styles.xml
@@ -50,8 +44,6 @@ layer-list;C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\obj\Debug\ne
 layer-list;obj\Debug\net8.0-android\resizetizer\sp\drawable\maui_splash_image.xml
 layer-list;obj\Debug\net8.0-android\resizetizer\sp\drawable-v31\maui_splash_image.xml
 microsoft.maui.controls.platform.compatibility.ShellFlyoutLayout;C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\obj\Debug\net8.0-android\lp\154\jl\res\layout\flyoutcontent.xml
-monochrome;obj\Debug\net8.0-android\resizetizer\r\mipmap-anydpi-v26\appicon.xml
-monochrome;obj\Debug\net8.0-android\resizetizer\r\mipmap-anydpi-v26\appicon_round.xml
 monochrome;obj\Debug\net8.0-android\resizetizer\r\mipmap-anydpi-v26\iut_logo.xml
 monochrome;obj\Debug\net8.0-android\resizetizer\r\mipmap-anydpi-v26\iut_logo_round.xml
 paths;C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\obj\Debug\net8.0-android\lp\157\jl\res\xml\microsoft_maui_essentials_fileprovider_file_paths.xml

@@ -29,25 +29,25 @@
     <AppXManifest Include="C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-03-24T15:12:58.349</Modified>
+      <Modified>2024-04-14T16:31:21.112</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-03-24T15:12:58.242</Modified>
+      <Modified>2024-04-14T16:31:21.019</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AxelPIGNOL.runtimeconfig.json">
       <PackagePath>AxelPIGNOL.runtimeconfig.json</PackagePath>
-      <Modified>2024-03-24T10:22:26.557</Modified>
+      <Modified>2024-03-25T12:46:03.546</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AxelPIGNOL.dll">
       <PackagePath>AxelPIGNOL.dll</PackagePath>
-      <Modified>2024-03-24T15:12:57.902</Modified>
+      <Modified>2024-04-14T16:31:20.648</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>AxelPIGNOL.exe</PackagePath>
-      <Modified>2024-03-24T15:12:57.906</Modified>
+      <Modified>2024-04-14T16:31:20.654</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -55,23 +55,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2024-03-24T10:17:27.031</Modified>
+      <Modified>2024-03-26T15:52:58.191</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2024-03-24T10:17:27.045</Modified>
+      <Modified>2024-03-26T15:52:58.209</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2024-03-24T10:17:27.072</Modified>
+      <Modified>2024-03-26T15:52:58.227</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2024-03-24T10:17:27.111</Modified>
+      <Modified>2024-03-26T15:52:58.258</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2024-03-24T10:17:27.235</Modified>
+      <Modified>2024-03-26T15:52:58.350</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -83,23 +83,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2024-03-24T12:19:10.730</Modified>
+      <Modified>2024-04-14T15:37:55.468</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2024-03-24T12:19:10.740</Modified>
+      <Modified>2024-04-14T15:37:55.480</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2024-03-24T12:19:10.753</Modified>
+      <Modified>2024-04-14T15:37:55.502</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2024-03-24T12:19:10.770</Modified>
+      <Modified>2024-04-14T15:37:55.544</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2024-03-24T12:19:10.827</Modified>
+      <Modified>2024-04-14T15:37:55.608</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\favorites_icon.scale-100.png">
       <PackagePath>favorites_icon.scale-100.png</PackagePath>
@@ -116,6 +116,10 @@
     <AppxPackagedFile Include="C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\image2.scale-100.png">
       <PackagePath>image2.scale-100.png</PackagePath>
       <Modified>2024-03-24T12:03:54.907</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\image3.scale-100.jpg">
+      <PackagePath>image3.scale-100.jpg</PackagePath>
+      <Modified>2024-04-14T15:37:48.903</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iut_logo.ico">
       <PackagePath>iut_logo.ico</PackagePath>
@@ -315,7 +319,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AxelPIGNOL.deps.json">
       <PackagePath>AxelPIGNOL.deps.json</PackagePath>
-      <Modified>2024-03-24T15:12:58.188</Modified>
+      <Modified>2024-04-04T11:09:53.469</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\paxou\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

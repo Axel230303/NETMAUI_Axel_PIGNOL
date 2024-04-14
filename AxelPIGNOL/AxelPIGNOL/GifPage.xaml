@@ -4,11 +4,10 @@
              x:Class="AxelPIGNOL.GifPage"
              Title="GIF Animé">
 
-	<VerticalStackLayout Spacing="25" Padding="30">
-		<!-- Ajuster les propriétés HeightRequest et WidthRequest pour contrôler la taille d'affichage -->
-		<Image Source="spider_man.gif" Aspect="AspectFit" HeightRequest="300" WidthRequest="300" />
+    <VerticalStackLayout Spacing="25" Padding="30">
+        <Image Source="spider_man.gif" Aspect="AspectFit" HeightRequest="300" WidthRequest="300" />
 
-		<!-- Bouton pour retourner à la page d'accueil (facultatif si vous utilisez la navigation) -->
+		<!-- Bouton pour retourner à la page d'accueil  -->
 		<Button Text="Retour à l'accueil" Clicked="ReturnToHomeClicked"/>
 	</VerticalStackLayout>
 

@@ -88,6 +88,9 @@
     <AppxPackagedFile Include="C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\image2.scale-100.png">
       <PackagePath>image2.scale-100.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\image3.scale-100.jpg">
+      <PackagePath>image3.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iut_logo.ico">
       <PackagePath>iut_logo.ico</PackagePath>
     </AppxPackagedFile>

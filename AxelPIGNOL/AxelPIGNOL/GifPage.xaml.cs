@@ -12,7 +12,6 @@ namespace AxelPIGNOL
 
         private async void ReturnToHomeClicked(object sender, EventArgs e)
         {
-            // Utilisez Navigation.PopAsync pour revenir à la page précédente
             await Navigation.PopAsync();
         }
     }

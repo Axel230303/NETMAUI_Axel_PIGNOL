@@ -12,10 +12,10 @@ namespace AxelPIGNOL.ViewModels
 
         public BeerViewModel()
         {
-            Task.Run(() => LoadBeersAsync());
+            Task.Run(() => LoadBeer());
         }
 
-        private async Task LoadBeersAsync()
+        private async Task LoadBeer()
         {
             var httpClient = new HttpClient();
             var response = await httpClient.GetStringAsync("https://api.sampleapis.com/beers/ale");
@@ -29,5 +29,21 @@ namespace AxelPIGNOL.ViewModels
                 }
             }
         }
-    }
+
+        public void AddBeer(Beer beer)
+        {
+            Beers.Add(beer);
+            Task.Run(() => SaveBeerAsync(beer));
+        }
+
+        private async Task SaveBeerAsync(Beer beer)
+        {
+            var httpClient = new HttpClient();
+
+            var beerJson = JsonSerializer.Serialize(beer);
+            var content = new StringContent(beerJson, System.Text.Encoding.UTF8, "application/json");
+
+            var response = await httpClient.PostAsync("https://api.sampleapis.com/beers/add", content);
+        }
+}
 }

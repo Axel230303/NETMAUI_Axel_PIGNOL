@@ -1,4 +1,7 @@
-﻿namespace AxelPIGNOL
+﻿using AxelPIGNOL.Models;
+using AxelPIGNOL.ViewModels;
+
+namespace AxelPIGNOL
 {
     public partial class FavoritesPage : ContentPage
     {
@@ -9,16 +12,25 @@
             InitializeComponent();
         }
 
-        private void OnCounterClicked(object sender, EventArgs e)
+        private async void OnAddBeerClicked(object sender, EventArgs e)
         {
-            count++;
+            var beer = new Beer
+            {
+                Name = nameEntry.Text,
+                Price = priceEntry.Text,
+                Rating = new Rating
+                {
+                    Average = double.Parse(averageRatingEntry.Text),
+                    Reviews = int.Parse(reviewsEntry.Text)
+                },
+                Image = imageUrlEntry.Text
+            };
 
-            if (count == 1)
-                CounterBtn.Text = $"Clicked {count} time";
-            else
-                CounterBtn.Text = $"Clicked {count} times";
+            var viewModel = BindingContext as BeerViewModel;
+            viewModel?.AddBeer(beer);
 
-            SemanticScreenReader.Announce(CounterBtn.Text);
+            await DisplayAlert("Bravo", "La bière a bien été ajouté", "OK");
+            await Navigation.PopAsync();
         }
     }
 

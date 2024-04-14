@@ -183,3 +183,4 @@ C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\obj\Debug\net8.0-window
 C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\image1.scale-100.jpg
 C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\image2.scale-100.png
 C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\spider_man.scale-100.gif
+C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\image3.scale-100.jpg
