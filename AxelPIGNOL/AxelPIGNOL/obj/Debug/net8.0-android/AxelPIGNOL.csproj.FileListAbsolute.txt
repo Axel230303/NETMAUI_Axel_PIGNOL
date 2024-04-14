@@ -1074,3 +1074,4 @@ C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\obj\Debug\net8.0-androi
 C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\obj\Debug\net8.0-android\resizetizer\r\drawable\image1.jpg
 C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\obj\Debug\net8.0-android\resizetizer\r\drawable\image2.png
 C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\obj\Debug\net8.0-android\resizetizer\r\drawable\spider_man.gif
+C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\obj\Debug\net8.0-android\resizetizer\r\drawable\image3.jpg

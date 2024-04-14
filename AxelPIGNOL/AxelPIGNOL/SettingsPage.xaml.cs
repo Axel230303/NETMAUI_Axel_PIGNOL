@@ -1,7 +1,4 @@
-﻿using Microsoft.Maui.Controls;
-using System.Collections.Generic;
-
-namespace AxelPIGNOL
+﻿namespace AxelPIGNOL
 {
     public partial class SettingsPage : ContentPage
     {

@@ -13,7 +13,23 @@
                 <Image Source="image2.png" HeightRequest="100" WidthRequest="100" Aspect="AspectFit" HorizontalOptions="Center" />
             </HorizontalStackLayout>
 
-            <!-- Bouton pour naviguer vers une nouvelle page avec un gif -->
+            <CarouselView x:Name="MyCarousel"
+              PeekAreaInsets="50"
+              HeightRequest="200">
+                <CarouselView.ItemsSource>
+                    <x:Array Type="{x:Type ImageSource}">
+                        <ImageSource>image1.jpg</ImageSource>
+                        <ImageSource>image2.png</ImageSource>
+                        <ImageSource>image3.jpg</ImageSource>
+                    </x:Array>
+                </CarouselView.ItemsSource>
+                <CarouselView.ItemTemplate>
+                    <DataTemplate>
+                        <Image Source="{Binding .}" Aspect="AspectFill" />
+                    </DataTemplate>
+                </CarouselView.ItemTemplate>
+            </CarouselView>
+            
             <Button x:Name="GifPageBtn" Text="Voir le GIF" Clicked="OnGifPageClicked" HorizontalOptions="Fill" />
         </VerticalStackLayout>
     </ScrollView>

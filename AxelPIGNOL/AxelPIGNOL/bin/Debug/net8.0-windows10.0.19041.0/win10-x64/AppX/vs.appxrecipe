@@ -29,13 +29,13 @@
     <AppXManifest Include="C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-04-14T16:31:21.112</Modified>
+      <Modified>2024-04-14T17:21:24.228</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-04-14T16:31:21.019</Modified>
+      <Modified>2024-04-14T17:21:24.042</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AxelPIGNOL.runtimeconfig.json">
       <PackagePath>AxelPIGNOL.runtimeconfig.json</PackagePath>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AxelPIGNOL.dll">
       <PackagePath>AxelPIGNOL.dll</PackagePath>
-      <Modified>2024-04-14T16:31:20.648</Modified>
+      <Modified>2024-04-14T17:21:22.733</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>AxelPIGNOL.exe</PackagePath>
-      <Modified>2024-04-14T16:31:20.654</Modified>
+      <Modified>2024-04-14T17:21:22.785</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -319,7 +319,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\paxou\NETMAUI_Axel_PIGNOL\AxelPIGNOL\AxelPIGNOL\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AxelPIGNOL.deps.json">
       <PackagePath>AxelPIGNOL.deps.json</PackagePath>
-      <Modified>2024-04-04T11:09:53.469</Modified>
+      <Modified>2024-04-14T17:21:23.800</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\paxou\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
